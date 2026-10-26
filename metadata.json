@@ -1,0 +1,6 @@
+{
+  "name": "Presidency College Student Management & Dropout Early-Warning Platform",
+  "description": "An intelligent, explainable student management and early-warning platform helping Presidency College educators identify students requiring support and take timely, compassionate action.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
